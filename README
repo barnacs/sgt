@@ -1,0 +1,12 @@
+1, sgt
+sgt serves versioned files from a git repository over HTTP.
+Useful for easy visual comparison of different versions of a static web site, for example.
+
+2, Dependencies
+sgt needs git on $PATH
+
+3, Usage
+See sgt --help
+
+4, License
+See LICENSE
